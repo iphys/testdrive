@@ -1,0 +1,8 @@
+# use LF (UNIX) for line ending in the repo, not CRLF
+* text=auto
+
+# Force CRLF (Windows) line endings
+#*.sln text eol=crlf
+
+*.png binary
+*.jpg binary
