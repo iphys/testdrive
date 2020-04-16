@@ -1,6 +1,6 @@
 ---
 created: 2020-04-16T11:59:40+01:00
-modified: 2020-04-16T12:02:20+01:00
+modified: 2020-04-16T12:02:53+01:00
 title: My Naturewatch
 ---
 
@@ -8,6 +8,8 @@ title: My Naturewatch
 
 Pi Zero W
 Camera module
+and so on.
+Pimoroni sells a kit online.
 
 Software is Python.
 Server and client software.
